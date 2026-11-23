@@ -28,7 +28,7 @@ It runs fully offline with a local [Ollama](https://ollama.com/) model, or you c
 
 > **Design principle:** a security tool must never say "clean" when it didn't actually scan. If Ruff or Bandit crashes, times out, or isn't installed, the app shows an error instead of a green checkmark.
 
-> Built as part of a walkthrough video by **YantraCode** — [watch it here](https://youtu.be/mU9xZE9cabk)
+> Built as part of a walkthrough video by **YantraCode** — [watch it here](https://youtu.be/bZieah3I7EU)
 
 ---
 
