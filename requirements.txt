@@ -1,0 +1,8 @@
+streamlit
+langgraph
+langchain-core
+langchain-ollama
+langchain-openai
+ruff
+bandit
+python-dotenv
